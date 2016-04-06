@@ -78,7 +78,6 @@ An API we will use: http://data.worldbank.org/developers/api-overview?display=
             <td>JavaScript: Functions</td>
         </tr>
 
-<<<<<<< HEAD
         <tr>
             <th colspan="3" align="left">Week 3</th>
         </tr>
@@ -108,40 +107,4 @@ An API we will use: http://data.worldbank.org/developers/api-overview?display=
             <th colspan="3" align="left">Week 8</th>
         </tr>
     </tbody>
-=======
-		<tr>
-			<th colspan="3" align="left">Week 3</th>
-		</tr>
-		<tr>
-			<td>3.1</td>
-			<td>Twitter Bootstrap: Introduction</td>
-			<td>JavaScript: Review</td>
-		</tr>
-		<tr>
-			<td>3.2</td>
-			<td>Twitter Bootstrap: Advanced</td>
-			<td>JavaScript: Data Structures</td>
-		</tr>
-		<tr>
-			<th colspan="3" align="left">Week 4</th>
-		</tr>
-		<tr>
-			<td>4.1</td>
-			<td>Command Line</td>
-			<td>Javascript: Functional</td>
-		</tr>
-		<tr>
-			<th colspan="3" align="left">Week 5</th>
-		</tr>
-		<tr>
-			<th colspan="3" align="left">Week 6</th>
-		</tr>
-		<tr>
-			<th colspan="3" align="left">Week 7</th>
-		</tr>
-		<tr>
-			<th colspan="3" align="left">Week 8</th>
-		</tr>
-	</tbody>
->>>>>>> 25592b5d0cee1ac35cf6d80a74827f76a877b5e6
 </table>
