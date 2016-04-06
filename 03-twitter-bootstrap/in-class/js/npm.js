@@ -10,8 +10,4 @@ require('../../js/tooltip.js')
 require('../../js/popover.js')
 require('../../js/scrollspy.js')
 require('../../js/tab.js')
-<<<<<<< HEAD
 require('../../js/affix.js')
-=======
-require('../../js/affix.js')
->>>>>>> 25592b5d0cee1ac35cf6d80a74827f76a877b5e6
